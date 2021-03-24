@@ -33,7 +33,7 @@ var connection = mysql.createConnection({
 var person = {emails: 'nuggetini420@gmail.com'};
 
 connection.query('INSERT INTO users SET ?', person, function(err, result) {
-	if (error) throw error;
+	if (err) throw err;
 	console.log(result);
 	});
 
