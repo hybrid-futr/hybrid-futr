@@ -2,7 +2,7 @@
 
 //Node.js
 var mysql = require('mysql');
-
+var faker = require('faker');
 
 var connection = mysql.createConnection({
 	host 	: 'localhost',
@@ -30,7 +30,18 @@ var connection = mysql.createConnection({
 
 
 // INSERTING DATA TAKE 2
-var person = {emails: 'nuggetini420@gmail.com'};
+// var person = {emails: 'nuggetini420@gmail.com'};
+
+// connection.query('INSERT INTO users SET ?', person, function(err, result) {
+// 	if (err) throw err;
+// 	console.log(result);
+// 	});
+
+// connection.end();
+
+
+// INSERTING DATA TAKE 3
+var person = {emails: faker.internet.email()};
 
 connection.query('INSERT INTO users SET ?', person, function(err, result) {
 	if (err) throw err;
