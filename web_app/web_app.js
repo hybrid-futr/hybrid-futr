@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
 	database : 'web_app'	
 });
 
-// INSERTING DATA TAKE 2
+// INSERTING DATA 
 var person = {emails: 'nuggetini420@gmail.com'};
 
 connection.query('INSERT INTO users SET ?', person, function(err, result) {
