@@ -1,3 +1,1 @@
-# Web-applications portoflio
-
-Web applications. 
+# Web-applications portfolio
