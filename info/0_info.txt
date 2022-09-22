@@ -1,4 +1,0 @@
-#Web applications.
-
-#created: 2/13/2021 - JFR 
-#updated: 3/15/2021 - JFR
