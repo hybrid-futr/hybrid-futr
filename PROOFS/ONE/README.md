@@ -5,11 +5,11 @@
 2. Data [CSV]
 3. Tableau
 
-*files*
+*files:*
 
-ex1.type - (brief desc)
+- ex1.type - (brief desc)
 
-ex2.type - (brief desc)
+- ex2.type - (brief desc)
 
 
 **GEN** 
@@ -17,8 +17,8 @@ ex2.type - (brief desc)
 2. Py + SQL (Data)
 3. Py viz module
 
-*files*
+*files:*
 
-ex3.type - (brief desc)
+- ex3.type - (brief desc)
 
-ex4.type - (brief desc)
+- ex4.type - (brief desc)

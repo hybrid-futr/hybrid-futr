@@ -1,6 +1,5 @@
 # HYBRID FUTR | PROOFS
 
-
 ## ONE | *DASHBOARDS*
 
 *Example ex#.type files track the following guides:*
@@ -10,11 +9,11 @@
 2. Data [CSV]
 3. Tableau
 
-*files*
+*files:*
 
-ex1.type - (brief desc)
+- ex1.type - (brief desc)
 
-ex2.type - (brief desc)
+- ex2.type - (brief desc)
 
 
 **GEN** 
@@ -22,11 +21,11 @@ ex2.type - (brief desc)
 2. Py + SQL (Data)
 3. Py viz module
 
-*files*
+*files:*
 
-ex3.type - (brief desc)
+- ex3.type - (brief desc)
 
-ex4.type - (brief desc)
+- ex4.type - (brief desc)
 
 
 ## TWO | *CLOUD*
@@ -36,21 +35,21 @@ ex4.type - (brief desc)
 **FINE** 
 1. Infrastructure in Cloud > Terraform > Py
 
-*files*
+*files:*
 
-ex1.type - (brief desc)
+- ex1.type - (brief desc)
 
-ex2.type - (brief desc)
+- ex2.type - (brief desc)
 
 
 **GEN** 
 1. Resource in Cloud > Py + SQL
 
-*files*
+*files:*
 
-ex3.type - (brief desc)
+- ex3.type - (brief desc)
 
-ex4.type - (brief desc)
+- ex4.type - (brief desc)
 
 
 ## THREE
