@@ -1,3 +1,5 @@
+# FRAMEWORKS
+
 ## DB
 ACID is composed of four properties that are the major guarantees of the transaction paradigm. This has influenced many aspects of database system development.
 
