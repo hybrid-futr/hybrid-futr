@@ -2,15 +2,15 @@
 
 ## PROOFS
 
-# ONE | *DASHBOARDS*
+### ONE | *DASHBOARDS*
 
-# TWO | *CLOUD*
+### TWO | *CLOUD*
 
-# THREE 
+### THREE 
 
 *COMING SOON*
 
-# FOUR
+#### FOUR
 
 *COMING SOON*
 
