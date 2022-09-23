@@ -16,6 +16,6 @@
 
 ## FRAMEWORKS
 
-**DB**
-**CLOUD**
-**WEB**
+- **DB**
+- **CLOUD**
+- **WEB**
