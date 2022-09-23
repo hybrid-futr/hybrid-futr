@@ -1,6 +1,6 @@
 # DASHBOARDS
 
-Example ex#.*type* files track the following guides:
+*Example ex#.type files track the following guides:*
 
 **FINE**
 1. Remote Server
