@@ -1,21 +1,18 @@
 # HYBRID FUTR 
 
-## PROOFS
-
-### ONE | *DASHBOARDS*
-
-### TWO | *CLOUD*
-
-### THREE 
-
-*COMING SOON*
-
-#### FOUR
-
-*COMING SOON*
-
 ## FRAMEWORKS
 
 - **DB**
 - **CLOUD**
 - **WEB**
+
+
+## PROOFS
+
+- **ONE | *DASHBOARDS***
+
+- **TWO | *CLOUD***
+
+- **THREE | *COMING SOON***
+
+- **FOUR | *COMING SOON***
