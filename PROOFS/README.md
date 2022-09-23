@@ -4,13 +4,13 @@
 
 **FILES** 
 
-*fine*
+*fine:*
 
 ex1.type - (brief desc)
 
 ex2.type - (brief desc)
 
-*gen*
+*gen:*
 
 ex3.type - (brief desc)
 
@@ -20,13 +20,13 @@ ex4.type - (brief desc)
 
 **FILES** 
 
-*fine*
+*fine:*
 
 ex1.type - (brief desc)
 
 ex2.type - (brief desc)
 
-*gen*
+*gen:*
 
 ex3.type - (brief desc)
 
