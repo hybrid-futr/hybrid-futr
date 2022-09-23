@@ -1,7 +1,6 @@
 # CLOUD
 
 **FINE** 
-1. Infrastructure in Cloud > Terraform > Py
 
 *files:*
 
@@ -10,8 +9,7 @@
 - ex2.type - (brief desc)
 
 
-**GEN** 
-1. Resource in Cloud > Py + SQL
+**GEN**
 
 *files:*
 
