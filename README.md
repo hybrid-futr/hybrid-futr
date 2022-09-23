@@ -18,5 +18,14 @@ Each example ex#.*type* follows these guidelines:
 3. Py viz module
 
 ### TWO
+CLOUD
+
+**FINE**
+Each example ex#.type contributes to  this structure:
+1. Infrastructure in Cloud > Terraform > Py
+
+**GEN**
+Each example ex#.type contributes to  this structure:
+1. Resource in Cloud > Py + SQL
 
 ### THREE
