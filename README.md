@@ -2,8 +2,7 @@
 
 ## PROOFS
 
-### ONE
-DASHBOARDS
+### ONE | DASHBOARDS
 
 **FINE** 
 Each example ex#.*type* follows these guidelines:
@@ -17,8 +16,7 @@ Each example ex#.*type* follows these guidelines:
 2. Py + SQL (Data)
 3. Py viz module
 
-### TWO
-CLOUD
+### TWO | CLOUD
 
 **FINE**
 Each example ex#.type contributes to  this structure:
@@ -28,4 +26,4 @@ Each example ex#.type contributes to  this structure:
 Each example ex#.type contributes to  this structure:
 1. Resource in Cloud > Py + SQL
 
-### THREE
+### THREE |
