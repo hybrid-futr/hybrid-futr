@@ -2,7 +2,7 @@
 
 ## ONE | *DASHBOARDS*
 
-*Example ex#.type files track the following guides:*
+*Files track the following guides:*
 
 **FINE** 
 1. Remote Server
@@ -30,7 +30,7 @@
 
 ## TWO | *CLOUD*
 
-*Example ex#.type files track the following structural forms:*
+*Files track the following structural forms:*
 
 **FINE** 
 1. Infrastructure in Cloud > Terraform > Py
