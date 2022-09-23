@@ -1,5 +1,7 @@
 # CLOUD
 
-**FINE**
+*files:*
 
-1. Infrastructure in Cloud > Terraform > Py
+- ex1.type - (brief desc)
+
+- ex2.type - (brief desc)

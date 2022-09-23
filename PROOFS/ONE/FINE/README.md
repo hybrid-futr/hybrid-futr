@@ -1,7 +1,7 @@
 # DASHBOARDS
 
-**FINE**
+*files:*
 
-1. Remote Server
-2. Data [CSV]
-3. Tableau
+- ex1.type - (brief desc)
+
+- ex2.type - (brief desc)

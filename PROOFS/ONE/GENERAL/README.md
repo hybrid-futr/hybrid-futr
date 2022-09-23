@@ -1,7 +1,7 @@
 # DASHBOARDS
 
-**GEN**
+*files:*
 
-1. Local Server
-2. Py + SQL (Data)
-3. Py viz module
+- ex3.type - (brief desc)
+
+- ex4.type - (brief desc)

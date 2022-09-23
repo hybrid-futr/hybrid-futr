@@ -1,5 +1,7 @@
 # CLOUD
 
-**GEN**
+*files:*
 
-1. Resource in Cloud > Py + SQL
+- ex3.type - (brief desc)
+
+- ex4.type - (brief desc)
