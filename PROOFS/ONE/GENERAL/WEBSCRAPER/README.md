@@ -10,8 +10,8 @@
 
 *Using: Python 3.10.7*
 
-- [sqlite3](https://requests.readthedocs.io/en/latest/): Part of the Python Standard Library
+- [sqlite3](https://www.sqlite.org/index.html): Part of the Python Standard Library
 
-- [requests](https://www.sqlite.org/index.html)
+- [requests](https://requests.readthedocs.io/en/latest/)
 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
