@@ -28,7 +28,7 @@ examples: Django, Flask, Node
 - COMING SOON
 
 ## THOUGHT
-Tracking our thinking about the future.
+Our thinking about the future.
 
 [links]
 - [Hope and Fears for the Hybrid Future](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/hopes-and-fears-for-the-hybrid-future)
