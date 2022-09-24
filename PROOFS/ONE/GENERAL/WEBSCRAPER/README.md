@@ -10,7 +10,7 @@
 
 *Using: Python 3.10.7*
 
-- [sqlite3](https://www.sqlite.org/index.html): Part of the Standard Library(`https://docs.python.org/3/library/index.html`)
+- [sqlite3](https://www.sqlite.org/index.html): Part of the [Standard Library](`https://docs.python.org/3/library/index.html`)
 
 - [requests](https://requests.readthedocs.io/en/latest/)
 
