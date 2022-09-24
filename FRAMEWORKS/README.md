@@ -30,7 +30,11 @@ Rapid deployment of sites using robust web frameworks.
 *examples:* Django, Flask, Node
 
 [links]
-- COMING SOON
+- [Django] (https://www.djangoproject.com)
+
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+
+- [Node](https://nodejs.org/en/)
 
 ## THOUGHT
 Our thinking about the future.
