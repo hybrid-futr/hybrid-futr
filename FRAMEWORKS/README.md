@@ -30,3 +30,5 @@ examples: Django, Flask, Node
 ## THOUGHTS
 [links]
 Hope and Fears for the Hybrid Future
+
+[link text itself]: http://www.reddit.com
