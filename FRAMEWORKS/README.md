@@ -5,8 +5,11 @@ ACID is composed of four properties that are the major guarantees of the transac
 
 [links]
 - [ACID](https://en.wikipedia.org/wiki/ACID)
+
 - [Data-Centric Manifesto](http://www.datacentricmanifesto.org)
+
 - [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 
 ## CLOUD
@@ -18,6 +21,7 @@ Rapidly changing constraints now drive the consideration of the technology stack
 
 [links]
 - [Emergence](https://www.merriam-webster.com/dictionary/emergence)
+
 - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781617298295/)
 
 ## WEB
