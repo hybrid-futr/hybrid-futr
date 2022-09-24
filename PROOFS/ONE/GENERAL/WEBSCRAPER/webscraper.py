@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 #METHODS
 
-#Request URL
+#Request URL > Initialize Beautiful Soup > Extract data
 def scrape_books(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -14,7 +14,8 @@ def scrape_books(url):
             book_data = (get_title(book), get_price(book), get_rating(book))
             all_books.append(book_data)
     save_books(all_books)
- 
+
+#Save data to db
 def save_books(all_books):
     connection = sqlite3.connect("books.db")
     c = connection.cursor() 
@@ -38,9 +39,3 @@ def get_rating(book):
     return ratings[numero]
 
 scrape_books("http://books.toscrape.com")
-
-#INITIALIZE Beautiful Soup
-
-#EXTRACT DATA
-
-#SAVE DATA TO DB
