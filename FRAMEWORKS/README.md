@@ -27,7 +27,7 @@ Rapidly changing constraints now drive the consideration of the technology stack
 ## WEB
 Rapid deployment of sites using robust web frameworks.
 
-examples: Django, Flask, Node
+*examples:* Django, Flask, Node
 
 [links]
 - COMING SOON
