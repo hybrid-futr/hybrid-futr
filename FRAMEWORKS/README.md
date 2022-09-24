@@ -35,6 +35,6 @@ examples: Django, Flask, Node
 Our thinking about the future.
 
 [links]
-- [Hope and Fears for the Hybrid Future](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/hopes-and-fears-for-the-hybrid-future)
-
 - [Emergent Properties](https://plato.stanford.edu/entries/properties-emergent/)
+
+- [Hope and Fears for the Hybrid Future](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/hopes-and-fears-for-the-hybrid-future)
