@@ -26,3 +26,7 @@ examples: Django, Flask, Node
 
 [links]
 - COMING SOON
+
+## THOUGHTS
+[links]
+Hope and Fears for the Hybrid Future
