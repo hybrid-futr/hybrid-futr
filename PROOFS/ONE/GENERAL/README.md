@@ -2,7 +2,7 @@
 
 *files:*
 
-- [`**WEBSCRAPER**`](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE/GENERAL/WEBSCRAPER)
+- **[`WEBSCRAPER`](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE/GENERAL/WEBSCRAPER)**
 
 - ex3.type - (brief desc)
 
