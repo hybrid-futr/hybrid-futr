@@ -10,14 +10,14 @@ ACID is composed of four properties that are the major guarantees of the transac
 - [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 
 ## CLOUD
-EMERGENCE: əˈmərjəns | (noun) the process of coming into view or becoming exposed after being concealed
+**EMERGENCE (noun) | the act or an instance of emerging**
 
 Technical business operations have historically been restricted by resources with a high CAPEX in static local environments.
 
 Rapidly changing constraints now drive the consideration of the technology stack, so what can we do make sense of this fact?
 
 [links]
-- Definition : [source]
+- [Emergence](https://www.merriam-webster.com/dictionary/emergence)
 - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781617298295/)
 
 ## WEB
