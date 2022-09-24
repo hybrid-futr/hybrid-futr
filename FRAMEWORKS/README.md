@@ -27,7 +27,7 @@ examples: Django, Flask, Node
 [links]
 - COMING SOON
 
-## THOUGHTS
+## THOUGHT
 Tracking our thinking about the future.
 
 [links]
