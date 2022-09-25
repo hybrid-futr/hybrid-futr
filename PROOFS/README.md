@@ -1,6 +1,6 @@
 # PROOFS
 
-## ONE | *DASHBOARDS*
+## ONE | *[DASHBOARDS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)*
 
 *Files track the following guides:*
 
@@ -16,7 +16,7 @@
 3. Py viz module
 
 
-## TWO | *CLOUD*
+## TWO | *[CLOUD](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)*
 
 *Files track the following structural forms:*
 
