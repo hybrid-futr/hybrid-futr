@@ -14,6 +14,6 @@ An exercise from Colt Steele's [`The Modern Python Bootcamp`](https://www.udemy.
 
 - [sqlite3](https://www.sqlite.org/index.html): Part of the [`Standard Library`](https://docs.python.org/3/library/index.html)
 
-- [requests](https://requests.readthedocs.io/en/latest/)
+- [Requests](https://requests.readthedocs.io/en/latest/)
 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
