@@ -1,17 +1,17 @@
 # HYBRID FUTR 
 
-## FRAMEWORKS
+## [FRAMEWORKS](https://github.com/jfremzrai/hybrid-futr/tree/main/FRAMEWORKS)
 
 - **DB**
 - **CLOUD**
 - **WEB**
 
 
-## PROOFS
+## [PROOFS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
 
-- **ONE | *DASHBOARDS***
+- **ONE | *[DASHBOARDS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)***
 
-- **TWO | *CLOUD***
+- **TWO | *[CLOUD](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)***
 
 - **THREE | *COMING SOON***
 
