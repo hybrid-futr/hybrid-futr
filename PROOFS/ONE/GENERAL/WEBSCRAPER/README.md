@@ -20,12 +20,19 @@ An exercise from Colt Steele's [`The Modern Python Bootcamp`](https://www.udemy.
 
 
 **EXTENSION(S)**
+
 I don't want to only create a .db file after a scrape, but also build a .csv file for future analysis. The following 'recipe' can be applied from the terminal in order to do this. This needs to be integrated into the scraper.
 
 > % sqlite3
+
 > sqlite> .open books.db
+
 > sqlite> .headers on
+
 > sqlite> .mode csv
+
 > sqlite> .output books.csv
+
 > sqlite> select * from books;
+
 > sqlite> .output stdout
