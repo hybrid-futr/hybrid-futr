@@ -21,7 +21,7 @@ An exercise from Colt Steele's [`The Modern Python Bootcamp`](https://www.udemy.
 
 **EXTENSION(S)**
 
-I don't want to only create a .db file after a scrape, but also build a .csv file for future analysis. The following 'recipe' can be applied from the terminal in order to do this. This needs to be integrated into the scraper.
+I don't want to only create a .db file after a scrape, but also build a .csv file for future analysis. The following 'recipe' can be applied from the terminal in order to do this. This should be integrated into the scraper.
 
 > % sqlite3
 
