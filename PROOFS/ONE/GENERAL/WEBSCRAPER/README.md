@@ -8,7 +8,7 @@ An exercise from Colt Steele's [`The Modern Python Bootcamp`](https://www.udemy.
 
 - [Books To Scrape](http://books.toscrape.com)
 
-**PYTHON MODULES**
+**MODULES**
 
 *Using: Python 3.10.7*
 
