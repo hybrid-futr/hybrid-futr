@@ -27,7 +27,7 @@
 1. Resource in Cloud > Py + SQL
 
 
-## THREE | [*Web*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
+## THREE | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
 
 *COMING SOON*
 
