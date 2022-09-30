@@ -9,10 +9,10 @@
 
 ## [PROOFS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
 
-- **ONE | *[DASHBOARDS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)***
+- **ONE | [*DASHBOARDS*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
-- **TWO | *[CLOUD](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)***
+- **TWO | [*CLOUD*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 
-- **THREE | *COMING SOON***
+- **THREE | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
 
-- **FOUR | *COMING SOON***
+- **FOUR | [*IT/AV*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/FOUR)**

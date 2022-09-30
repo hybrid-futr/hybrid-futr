@@ -3,7 +3,7 @@
 ## DB
 ACID is composed of four properties that are the major guarantees of the transaction paradigm. This has influenced many aspects of database system development.
 
-[links]
+[*links*]
 - [ACID](https://en.wikipedia.org/wiki/ACID)
 
 - [Data-Centric Manifesto](http://www.datacentricmanifesto.org)
@@ -19,7 +19,7 @@ Technical business operations have historically been restricted by resources wit
 
 Rapidly changing constraints now drive the consideration of the technology stack, so what can we do make sense of this fact?
 
-[links]
+[*links*]
 - [Emergence](https://www.merriam-webster.com/dictionary/emergence)
 
 - [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781617298295/)
@@ -29,7 +29,7 @@ Rapid deployment of sites using robust web frameworks.
 
 *examples:* Django, Flask, Node
 
-[links]
+[*links*]
 - [Django](https://www.djangoproject.com)
 
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
@@ -39,7 +39,7 @@ Rapid deployment of sites using robust web frameworks.
 ## THOUGHT
 Our thinking about the future.
 
-[links]
+[*links*]
 - [Emergent Properties](https://plato.stanford.edu/entries/properties-emergent/)
 
 - [Hope and Fears for the Hybrid Future](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal/hopes-and-fears-for-the-hybrid-future)
