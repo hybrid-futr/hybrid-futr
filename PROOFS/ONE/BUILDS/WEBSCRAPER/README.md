@@ -2,7 +2,7 @@
 
 **OVERVIEW**
 
-An exercise from Colt Steele's [`The Modern Python Bootcamp`](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+A modified version of an exercise from Colt Steele's [`The Modern Python Bootcamp`](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 
 **SITE**
 
