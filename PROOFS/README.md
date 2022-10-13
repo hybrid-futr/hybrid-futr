@@ -1,6 +1,6 @@
 # PROOFS
 
-## ONE | [*DASHBOARDS*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)
+## ONE | [*DATA*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)
 
 *Files track the following guides:*
 
