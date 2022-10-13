@@ -9,7 +9,7 @@
 
 ## [PROOFS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
 
-- **ONE | [*DASHBOARDS*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
+- **ONE | [*DATA*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
 - **TWO | [*CLOUD*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 

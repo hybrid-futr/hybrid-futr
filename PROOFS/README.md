@@ -4,16 +4,8 @@
 
 *Files track the following guides:*
 
-**FINE** 
-1. Remote Server
-2. Data [CSV]
-3. Tableau
-
-
-**GEN** 
-1. Local Server
-2. Py + SQL (Data)
-3. Py viz module
+**BUILDS**
+1. **[`WEBSCRAPER`](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE/GENERAL/WEBSCRAPER)**
 
 
 ## TWO | [*CLOUD*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)
