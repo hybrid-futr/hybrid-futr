@@ -7,17 +7,16 @@
 2. **[`2022 NL WEST ANALYSIS`](https://github.com/hybrid-futr/hybrid-futr/tree/main/PROOFS/ONE/BUILDS/2022nlwest)**
 
 
-## TWO | [*CLOUD*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)
+## TWO | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)
 
 *Files track the following structural forms:*
 
-**FINE** 
-1. Infrastructure in Cloud > Terraform > Py
-
-**GEN** 
-1. Resource in Cloud > Py + SQL
+1. Infrastructure Architecture > Platform + Language
+2. Cloud Resource > Front End + Backend
+3. Design > MITG: KOSMIC CITY
 
 
-## THREE | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
+## THREE | [*AM*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
 
-*COMING SOON*
+**REALIZED BUILDS**
+1. Additive Manufacturing
