@@ -1,7 +1,5 @@
 # WEB
 
-*Files track the following structural forms:*
-
-1. Architecture > Platform + Language
+*Files are framework focused:*
+1. Sites
 2. Cloud Resources > Front End + Backend
-3. Design > MITG: KOSMIC CITY

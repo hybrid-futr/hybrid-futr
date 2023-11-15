@@ -9,8 +9,8 @@
 
 ## [PROOFS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
 
-- **ONE | [*DATA*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
+- **ONE | [*ARCHITECTURE*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
 - **TWO | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 
-- **THREE | [*AM*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
+- **THREE | [*DESIGN AND MANUFACTURING*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
