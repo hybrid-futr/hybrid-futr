@@ -2,9 +2,9 @@
 
 ## [FRAMEWORKS](https://github.com/jfremzrai/hybrid-futr/tree/main/FRAMEWORKS)
 
-- **DB**
-- **CLOUD**
-- **WEB**
+- **ARCHITECTURAL**
+- **BUSINESS**
+- **COMPLIANCE**
 
 
 ## [PROOFS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
