@@ -21,8 +21,3 @@
 ## THREE | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
 
 *COMING SOON*
-
-
-## FOUR | [*IT/AV*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/FOUR)
-
-*COMING SOON*
