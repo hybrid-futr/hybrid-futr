@@ -1,18 +1,9 @@
-# CLOUD
+# WEB
 
 **FINE** 
 
-*files:*
+*Files track the following structural forms:*
 
-- ex1.type - (brief desc)
-
-- ex2.type - (brief desc)
-
-
-**GEN**
-
-*files:*
-
-- ex3.type - (brief desc)
-
-- ex4.type - (brief desc)
+1. Infrastructure Architecture > Platform + Language
+2. Cloud Resource > Front End + Backend
+3. Design > MITG: KOSMIC CITY
