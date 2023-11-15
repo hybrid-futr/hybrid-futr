@@ -11,6 +11,6 @@
 
 - **ONE | [*DATA*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
-- **TWO | [*CLOUD*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
+- **TWO | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 
-- **THREE | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
+- **THREE | [*AM*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
