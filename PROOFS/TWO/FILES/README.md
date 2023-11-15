@@ -1,17 +1,6 @@
-# ARCHITECTURE
-
-- ex1.type - (database applications)
-
 # CLOUD INFRASTRUCTURE
 
 *files:*
 
-- ex1.type - (brief desc)
+- ex1.type - (VM in AZ)
 
-- ex2.type - (brief desc)
-
-# DESIGN
-
-*files:*
-
-- ex1.type - (mitg: kosmic city)

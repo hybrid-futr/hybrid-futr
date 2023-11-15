@@ -1,3 +1,8 @@
-# WEB
+# DESIGN AND MANUFACTURING
 
-*COMING SOON*
+**REALIZED BUILDS**
+1. Additive Manufacturing
+
+*files:*
+
+- ex1.type - (mitg: kosmic city)
