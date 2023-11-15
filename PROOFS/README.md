@@ -11,8 +11,8 @@
 
 *Files track the following structural forms:*
 
-1. Infrastructure Architecture > Platform + Language
-2. Cloud Resource > Front End + Backend
+1. Architecture > Platform + Language
+2. Cloud Resources > Front End + Backend
 3. Design > MITG: KOSMIC CITY
 
 

@@ -1,8 +1,8 @@
-# APPLICATION
+# ARCHITECTURE
 
-*files:*
+- ex1.type - (database applications)
 
-# CLOUD
+# CLOUD INFRASTRUCTURE
 
 *files:*
 
