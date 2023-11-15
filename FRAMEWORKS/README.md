@@ -17,7 +17,7 @@ Rapid deployment of sites using robust web frameworks.
 
 Technical business operations have historically been restricted by resources with a high CAPEX in static local environments.
 
-Rapidly changing constraints now drive the consideration of the technology stack, so what can we do make sense of this fact?
+Rapidly changing constraints now drive the consideration of the technology stack, so how do make sense of this?
 
 [*links*]
 - [Emergence](https://www.merriam-webster.com/dictionary/emergence)
