@@ -1,7 +1,5 @@
 # WEB
 
-**FINE** 
-
 *Files track the following structural forms:*
 
 1. Infrastructure Architecture > Platform + Language
