@@ -7,10 +7,10 @@
 - **COMPLIANCE**
 
 
-## [PROOFS](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
+## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
 
-- **ONE | [*ARCHITECTURE*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
+- **ONE | [*IT/AV SOLUTIONS*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
-- **TWO | [*WEB*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
+- **TWO | [*DATA INFRASTRUCTURE*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 
-- **THREE | [*DESIGN AND MANUFACTURING*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
+- **THREE | [*SCALABLE FABRICATION*](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
