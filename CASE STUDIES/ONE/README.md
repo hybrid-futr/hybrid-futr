@@ -1,6 +1,6 @@
 # SITES
 
-- Djano site test
+- Django site test
 
 # CLOUD INFRASTRUCTURE
 
