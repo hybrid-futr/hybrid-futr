@@ -1,10 +1,9 @@
 # HYBRID FUTR 
 
-## [FRAMEWORKS](https://github.com/jfremzrai/hybrid-futr/tree/main/FRAMEWORKS)
+## [TOOLS & FRAMEWORKs](https://github.com/jfremzrai/hybrid-futr/tree/main/FRAMEWORKS)
 
-- **ARCHITECTURAL**
-- **BUSINESS**
-- **COMPLIANCE**
+- **<coming soon>**
+-**CLOUD**
 
 
 ## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
