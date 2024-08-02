@@ -5,7 +5,7 @@
 - **coming soon**
 
 
-## [CASE STUDIES] (https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES)
+## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES)
 
 - **ONE >
  [**IT/AV SOLUTIONS**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
