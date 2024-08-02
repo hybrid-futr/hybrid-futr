@@ -1,8 +1,4 @@
-# SITES
-
-- Django site test
-
-# CLOUD INFRASTRUCTURE
+# INFRASTRUCTURE
 
 *files:*
 
