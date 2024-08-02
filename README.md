@@ -1,12 +1,11 @@
 # HYBRID FUTR 
 
-## [TOOLS & FRAMEWORKs](https://github.com/jfremzrai/hybrid-futr/tree/main/FRAMEWORKS)
+## [TOOLS & FRAMEWORKs](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
 
-- **<coming soon>**
--**CLOUD**
+- **coming soon**
 
 
-## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS)
+## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/'CASE STUDIES')
 
 - **ONE >
  [**IT/AV SOLUTIONS**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
