@@ -1,4 +1,6 @@
-# INFRASTRUCTURE
+# HARDWARE
+
+cloud infrasturcture
 
 *files:*
 
