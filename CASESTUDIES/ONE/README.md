@@ -1,7 +1,5 @@
 # HARDWARE
 
-cloud infrasturcture
-
 *files:*
 
-- ex1.type - (VM in AZ)
+- ex1.type - infrastructure: VM in AZ
