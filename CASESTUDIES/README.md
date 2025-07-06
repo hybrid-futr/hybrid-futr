@@ -10,7 +10,7 @@
 
 **APPLICATIONS**
 
-1. **[`DB IN AZ`]
+1. **[`DB IN AZ`]**
 
 
 ## TWO: [CLOUD](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)
