@@ -4,7 +4,7 @@
 
 **summer 25:**
 
-vscode, github, python, simulink 
+azure, github, python, vscode 
 
 ## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES)
 
