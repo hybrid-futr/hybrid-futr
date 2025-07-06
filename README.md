@@ -2,17 +2,14 @@
 
 ## [TOOLCHAIN](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
 
-summer 25:
+**summer 25:**
 
 vscode, github, python, simulink 
 
 ## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES)
 
-- **ONE >
- [**HARDWARE**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
+- **ONE: [**HARDWARE**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
-- **TWO >
- [**CLOUD**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
+- **TWO: [**CLOUD**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 
-- **THREE >
- [**FABRICATION**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
+- **THREE: [**FABRICATION**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
