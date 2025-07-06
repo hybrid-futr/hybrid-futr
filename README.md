@@ -1,17 +1,18 @@
 # HYBRID FUTR 
 
-## [TOOLS & FRAMEWORKs](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
+## [TOOLCHAIN](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
 
-- **coming soon**
+At the moment:
 
+vscode, github, python, simulink 
 
 ## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES)
 
 - **ONE >
- [**IT/AV SOLUTIONS**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
+ [**HARDWARE**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/ONE)**
 
 - **TWO >
- [**DATA INFRASTRUCTURE**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
+ [**CLOUD**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)**
 
 - **THREE >
- [**SCALABLE FABRICATION**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
+ [**FABRICATION**](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)**
