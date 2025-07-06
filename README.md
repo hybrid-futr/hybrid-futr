@@ -2,7 +2,7 @@
 
 ## [TOOLCHAIN](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
 
-At the moment:
+at the moment (summer 25):
 
 vscode, github, python, simulink 
 
