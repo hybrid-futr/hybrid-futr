@@ -1,6 +1,6 @@
 # CASE STUDIES
 
-## ONE | [*ARCHITECTURE*](https://github.com/jfremzrai/hybrid-futr/tree/main/'CASE STUDIES'/ONE)
+## ONE | [*ARCHITECTURE*](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES/ONE)
 
 *Architecture > Platform + Language*
 
