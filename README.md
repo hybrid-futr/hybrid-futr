@@ -1,10 +1,10 @@
-# HYBRID FUTR 
+# HF ENGINEERING
 
-## [TOOLCHAIN](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
+## [TOOLS](https://github.com/jfremzrai/hybrid-futr/tree/main/TOOLS&FRAMEWORKS)
 
 **summer 25:**
 
-azure, github, python, vscode 
+azure, github, python, simulink, vscode 
 
 ## [CASE STUDIES](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES)
 
