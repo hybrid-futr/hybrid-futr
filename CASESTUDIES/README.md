@@ -1,7 +1,6 @@
 # CASE STUDIES
 
-## ONE
-[HARDWARE](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES/ONE)
+## ONE: [HARDWARE](https://github.com/jfremzrai/hybrid-futr/tree/main/CASESTUDIES/ONE)
 
 *Architecture > Platform + Language*
 
@@ -14,16 +13,14 @@
 1. **[`DB IN AZ`]
 
 
-## TWO 
-[CLOUD](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)
+## TWO: [CLOUD](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/TWO)
 
 *Files are framework focused:*
 1. Sites
 2. Cloud Resources > Front End + Backend
 
 
-## THREE 
-[FABRICATION](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
+## THREE: [FABRICATION](https://github.com/jfremzrai/hybrid-futr/tree/main/PROOFS/THREE)
 
 **REALIZED BUILDS**
 1. Additive Manufacturing
